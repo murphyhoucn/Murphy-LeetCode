@@ -3,8 +3,8 @@ docs_dir: docs/
 repo_name: 'murphyhoucn/Murphy-LeetCode'
 repo_url: https://github.com/murphyhoucn/Murphy-LeetCode
 theme:
-  logo: https://murhyimgur.oss-cn-beijing.aliyuncs.com/website/星星.png
-  favicon: https://murhyimgur.oss-cn-beijing.aliyuncs.com/website/星星.png
+  logo: https://murphyimg.oss-cn-beijing.aliyuncs.com/img/202505311432608.png
+  favicon: https://murphyimg.oss-cn-beijing.aliyuncs.com/img/202505311432608.png
   name: material
   language: zh
   static_templates:
