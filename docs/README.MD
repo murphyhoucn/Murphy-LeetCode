@@ -119,35 +119,23 @@ touch docs/CPP/0100.md
 ```
 
 ### 2. 编写题解内容
-
 使用以下模板格式：
-
 ```markdown
 # 题号 题目名称
-
 - ![Built with Material for MkDocs](https://img.shields.io/badge/-难度级别-颜色.svg?style=for-the-badge")
 - `C++`
-
 ## 问题概述
-
 [在此描述题目要求和示例]
-
 ## 解题思路
-
 ### Solution 1: 解法名称
-
 - `算法标签`
 - **Time:** *O(时间复杂度)*
 - **Space:** *O(空间复杂度)*
 
-```cpp
-// 代码实现
-```
+// 代码块/代码实现
 
 [解题思路说明]
-
 ### Solution 2: 另一种解法
-
 [如果有多种解法，继续添加]
 ```
 
