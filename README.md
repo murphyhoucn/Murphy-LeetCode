@@ -50,6 +50,7 @@ MkDocs 是一个快速、简单且华丽的静态网站生成器，专为构建�
 2. **安装依赖**
    ```bash
    pip install -r requirements.txt
+   pip install --upgrade mkdocs-material
    ```
 
 3. **启动本地服务器**
