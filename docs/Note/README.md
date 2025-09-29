@@ -16,7 +16,7 @@
 - 📈 **复杂度分析**：详细标注时间复杂度和空间复杂度
 - 🌐 **在线访问**：通过 GitHub Pages 自动部署，随时随地查看
 
-**在线访问地址**：[https://murphyhoucn.github.io/Murphy-LeetCode/](https://murphyhoucn.github.io/Murphy-LeetCode/)
+**在线访问地址**：[https://cosmicdusty.cc/Murphy-LeetCode/](https://cosmicdusty.cc/Murphy-LeetCode/)
 
 ## 📚 关于 MkDocs
 
@@ -181,6 +181,8 @@ GitHub Actions 会自动构建并部署到 GitHub Pages。
 - [LeetCode 中国](https://leetcode.cn/)
 - [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
 - [大雪菜的算法基础课](https://space.bilibili.com/7836741/channel/seriesdetail?sid=369277)
+- [代码随想录-github/youngyangyang04](https://github.com/youngyangyang04/leetcode-master)
+- [灵茶山艾府 [0x3F]-github/EndlessCheng](https://github.com/EndlessCheng)
 
 ## 📄 许可证
 

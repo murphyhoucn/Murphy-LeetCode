@@ -64,6 +64,7 @@ nav:
   - Index: 'index.md'
   - MkDocs: 'Note/MkDocs.md'
   - README: 'Note/README.md'
+  - PLAN: 'Note/PLAN.md'
   - 0001 两数之和: 'CPP/0001.md'
   - 0009 回文数: 'CPP/0009.md'
   - 0013 罗马数字转整数: 'CPP/0013.md'
