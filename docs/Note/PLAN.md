@@ -14,6 +14,8 @@
 
 ## 📅 学习节奏
 
+[基础算法精讲·题目汇总-灵茶山艾府 [0x3F]-github/EndlessCheng](https://github.com/EndlessCheng/codeforces-go/tree/master/leetcode)
+
 ### 周计划安排
 
 ```
